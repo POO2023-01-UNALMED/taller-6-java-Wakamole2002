@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 
-class Pais {
+public class Pais {
     String nombre;
     static Map<Pais, Integer> ventasPorPais = new HashMap <Pais, Integer>();
     
